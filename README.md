@@ -24,19 +24,19 @@ while True:
 
 # This function adds two numbers
 def add(x, y):
-    return y + x
+    return x + y
 
 # This function subtracts two numbers
 def subtract(x, y):
-    return y - x
+    return x - y
 
 # This function multiplies two numbers
 def multiply(x, y):
-    return y * x
+    return x * x
 
 # This function divides two numbers
 def divide(x, y):
-    return y / x
+    return x / y
 
 
 print("Select operation.")
